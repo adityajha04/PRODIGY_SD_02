@@ -1,4 +1,5 @@
-# PRODIGY_SD_02This Java program challenges the user to guess a randomly generated number within K attempts. After each guess, the program provides feedback to help the user adjust their next guess.
+# PRODIGY_SD_02
+This Java program challenges the user to guess a randomly generated number within K attempts. After each guess, the program provides feedback to help the user adjust their next guess.
 
 If the guessed number is greater than the actual number, the program displays:
 "Your guess is too high. Try again."
